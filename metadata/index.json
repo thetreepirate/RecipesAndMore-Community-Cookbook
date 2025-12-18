@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "last_updated": "2025-12-17T11:00:00Z",
+  "total_recipes": 4,
+  "categories": {
+    "breakfast": 1,
+    "lunch": 0,
+    "dinner": 1,
+    "desserts": 1,
+    "snacks": 1
+  },
+  "recipes": [
+    {
+      "id": "fluffy-pancakes",
+      "name": "Fluffy Buttermilk Pancakes",
+      "category": "breakfast",
+      "cuisine": "American",
+      "tags": ["Breakfast", "Pancakes", "Easy", "Family-Friendly", "Vegetarian"],
+      "difficulty": "Easy",
+      "total_time": "25m",
+      "servings": 4,
+      "downloads": 0,
+      "rating": 0,
+      "rating_count": 0,
+      "contributor": "chef-sarah",
+      "url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/recipes/breakfast/fluffy-pancakes.json",
+      "image_url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/images/breakfast/fluffy-pancakes.jpg"
+    },
+    {
+      "id": "pad-thai",
+      "name": "Authentic Pad Thai",
+      "category": "dinner",
+      "cuisine": "Thai",
+      "tags": ["Thai", "Noodles", "Stir-Fry", "Asian", "30-Minute Meals"],
+      "difficulty": "Medium",
+      "total_time": "35m",
+      "servings": 4,
+      "downloads": 0,
+      "rating": 0,
+      "rating_count": 0,
+      "contributor": "chef-thai-kitchen",
+      "url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/recipes/dinner/pad-thai.json",
+      "image_url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/images/dinner/pad-thai.jpg"
+    },
+    {
+      "id": "chocolate-chip-cookies",
+      "name": "Perfect Chocolate Chip Cookies",
+      "category": "desserts",
+      "cuisine": "American",
+      "tags": ["Dessert", "Cookies", "Baking", "Chocolate", "Family-Friendly", "Vegetarian"],
+      "difficulty": "Easy",
+      "total_time": "27m",
+      "servings": 24,
+      "downloads": 0,
+      "rating": 0,
+      "rating_count": 0,
+      "contributor": "baker-emma",
+      "url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/recipes/desserts/chocolate-chip-cookies.json",
+      "image_url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/images/desserts/chocolate-chip-cookies.jpg"
+    },
+    {
+      "id": "classic-hummus",
+      "name": "Classic Creamy Hummus",
+      "category": "snacks",
+      "cuisine": "Mediterranean",
+      "tags": ["Snack", "Appetizer", "Vegan", "Gluten-Free", "Healthy", "Quick", "Middle Eastern"],
+      "difficulty": "Easy",
+      "total_time": "5m",
+      "servings": 8,
+      "downloads": 0,
+      "rating": 0,
+      "rating_count": 0,
+      "contributor": "mediterranean-kitchen",
+      "url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/recipes/snacks/classic-hummus.json",
+      "image_url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/images/snacks/classic-hummus.jpg"
+    }
+  ]
+}

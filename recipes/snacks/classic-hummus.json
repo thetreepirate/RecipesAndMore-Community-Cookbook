@@ -1,0 +1,56 @@
+{
+  "id": "classic-hummus",
+  "version": 1,
+  "metadata": {
+    "created_at": "2025-12-17T10:45:00Z",
+    "updated_at": "2025-12-17T10:45:00Z",
+    "contributor": {
+      "id": "mediterranean-kitchen",
+      "name": "Mediterranean Kitchen",
+      "profile_url": "https://github.com/med-kitchen"
+    },
+    "downloads": 0,
+    "ratings": {
+      "average": 0,
+      "count": 0
+    }
+  },
+  "recipe": {
+    "name": "Classic Creamy Hummus",
+    "description": "Smooth, creamy hummus with the perfect blend of tahini, garlic, and lemon. Better than store-bought and ready in 5 minutes!",
+    "cuisine": "Mediterranean",
+    "category": "Snack",
+    "tags": ["Snack", "Appetizer", "Vegan", "Gluten-Free", "Healthy", "Quick", "Middle Eastern"],
+    "servings": 8,
+    "prep_time": "5m",
+    "cook_time": "0m",
+    "total_time": "5m",
+    "difficulty": "Easy",
+    "ingredients": [
+      "1 can (15 oz) chickpeas, drained and rinsed",
+      "1/4 cup tahini",
+      "2 cloves garlic",
+      "3 tablespoons lemon juice",
+      "2 tablespoons olive oil, plus more for drizzling",
+      "1/2 teaspoon cumin",
+      "1/2 teaspoon salt",
+      "2-3 tablespoons water (as needed)",
+      "Paprika for garnish",
+      "Fresh parsley for garnish (optional)"
+    ],
+    "instructions": "1. Reserve a few chickpeas for garnish. Add remaining chickpeas to food processor.\n\n2. Add tahini, garlic, lemon juice, olive oil, cumin, and salt.\n\n3. Blend for 1 minute until smooth and creamy.\n\n4. With processor running, slowly add water 1 tablespoon at a time until you reach desired consistency. Hummus should be smooth and spreadable.\n\n5. Taste and adjust seasonings. Want more lemon? Garlic? Salt? Add it!\n\n6. Transfer to serving bowl. Create a well in the center with the back of a spoon.\n\n7. Drizzle with olive oil and sprinkle with paprika. Top with reserved chickpeas and parsley.\n\n8. Serve with pita bread, vegetables, or crackers. Store in airtight container in fridge for up to 1 week.",
+    "equipment": ["Food processor or high-powered blender", "Serving bowl", "Spoon"],
+    "notes": "For extra-smooth hummus, peel the chickpeas (yes, it's tedious but worth it!). Don't have tahini? Substitute with peanut butter or almond butter. For garlic lovers, roast the garlic first for a milder, sweeter flavor.",
+    "source": "Original",
+    "image_url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/images/snacks/classic-hummus.jpg",
+    "nutrition": {
+      "calories": "140",
+      "protein": "5g",
+      "carbs": "12g",
+      "fat": "8g",
+      "fiber": "4g",
+      "sugar": "0g",
+      "sodium": "180mg"
+    }
+  }
+}

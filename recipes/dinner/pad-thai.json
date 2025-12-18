@@ -1,0 +1,61 @@
+{
+  "id": "pad-thai",
+  "version": 1,
+  "metadata": {
+    "created_at": "2025-12-17T10:15:00Z",
+    "updated_at": "2025-12-17T10:15:00Z",
+    "contributor": {
+      "id": "chef-thai-kitchen",
+      "name": "Thai Kitchen Chef",
+      "profile_url": "https://github.com/thai-kitchen"
+    },
+    "downloads": 0,
+    "ratings": {
+      "average": 0,
+      "count": 0
+    }
+  },
+  "recipe": {
+    "name": "Authentic Pad Thai",
+    "description": "Classic Thai street food with rice noodles, shrimp, tofu, and the perfect balance of sweet, sour, and savory flavors.",
+    "cuisine": "Thai",
+    "category": "Dinner",
+    "tags": ["Thai", "Noodles", "Stir-Fry", "Asian", "30-Minute Meals"],
+    "servings": 4,
+    "prep_time": "20m",
+    "cook_time": "15m",
+    "total_time": "35m",
+    "difficulty": "Medium",
+    "ingredients": [
+      "8 oz rice noodles (pad thai width)",
+      "3 tablespoons fish sauce",
+      "2 tablespoons tamarind paste",
+      "2 tablespoons brown sugar",
+      "1 tablespoon lime juice",
+      "2 tablespoons vegetable oil",
+      "3 cloves garlic, minced",
+      "8 oz shrimp, peeled and deveined",
+      "4 oz firm tofu, cubed",
+      "2 eggs",
+      "1 cup bean sprouts",
+      "3 green onions, cut into 1-inch pieces",
+      "1/4 cup roasted peanuts, chopped",
+      "Lime wedges for serving",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": "1. Soak rice noodles in warm water for 30 minutes until soft but still firm. Drain and set aside.\n\n2. Make sauce: Mix fish sauce, tamarind paste, brown sugar, and lime juice in a small bowl. Set aside.\n\n3. Heat wok or large skillet over high heat. Add 1 tablespoon oil.\n\n4. Add shrimp and tofu, cook until shrimp turn pink, about 2-3 minutes. Remove and set aside.\n\n5. Add remaining oil and garlic to wok. Cook for 30 seconds until fragrant.\n\n6. Push garlic to side, crack eggs into center. Scramble until just set.\n\n7. Add drained noodles and sauce. Toss everything together, cooking for 2-3 minutes until noodles are tender.\n\n8. Return shrimp and tofu to wok. Add bean sprouts and green onions. Toss for 1 minute.\n\n9. Serve immediately topped with peanuts, cilantro, and lime wedges.",
+    "equipment": ["Wok or large skillet", "Mixing bowls", "Tongs or spatula", "Knife and cutting board"],
+    "notes": "Can't find tamarind paste? Substitute with equal parts lime juice and brown sugar. For vegetarian version, use soy sauce instead of fish sauce and omit shrimp. The key is high heat and quick cooking!",
+    "source": "Original",
+    "image_url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/images/dinner/pad-thai.jpg",
+    "nutrition": {
+      "calories": "445",
+      "protein": "24g",
+      "carbs": "52g",
+      "fat": "16g",
+      "fiber": "3g",
+      "sugar": "9g",
+      "sodium": "890mg"
+    }
+  }
+}

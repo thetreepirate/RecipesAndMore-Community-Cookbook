@@ -1,0 +1,55 @@
+{
+  "id": "fluffy-pancakes",
+  "version": 1,
+  "metadata": {
+    "created_at": "2025-12-17T10:00:00Z",
+    "updated_at": "2025-12-17T10:00:00Z",
+    "contributor": {
+      "id": "chef-sarah",
+      "name": "Chef Sarah",
+      "profile_url": "https://github.com/chef-sarah"
+    },
+    "downloads": 0,
+    "ratings": {
+      "average": 0,
+      "count": 0
+    }
+  },
+  "recipe": {
+    "name": "Fluffy Buttermilk Pancakes",
+    "description": "Light, fluffy pancakes with a golden-brown exterior and tender interior. Perfect for lazy weekend mornings.",
+    "cuisine": "American",
+    "category": "Breakfast",
+    "tags": ["Breakfast", "Pancakes", "Easy", "Family-Friendly", "Vegetarian"],
+    "servings": 4,
+    "prep_time": "10m",
+    "cook_time": "15m",
+    "total_time": "25m",
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "2 tablespoons sugar",
+      "2 teaspoons baking powder",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "2 cups buttermilk",
+      "2 large eggs",
+      "1/4 cup melted butter",
+      "1 teaspoon vanilla extract",
+      "Butter for cooking"
+    ],
+    "instructions": "1. In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.\n\n2. In another bowl, whisk together buttermilk, eggs, melted butter, and vanilla extract.\n\n3. Pour wet ingredients into dry ingredients and stir until just combined. Don't overmix - a few lumps are okay!\n\n4. Let batter rest for 5 minutes while you heat your griddle to medium heat (350°F).\n\n5. Lightly butter the griddle. Pour 1/4 cup batter for each pancake.\n\n6. Cook until bubbles form on surface and edges look set, about 2-3 minutes.\n\n7. Flip and cook until golden brown on the other side, about 1-2 minutes more.\n\n8. Keep warm in a 200°F oven while cooking remaining pancakes.\n\n9. Serve hot with butter and maple syrup!",
+    "equipment": ["Large mixing bowls", "Whisk", "Griddle or large skillet", "Spatula", "Measuring cups and spoons"],
+    "notes": "For extra fluffy pancakes, separate the eggs and beat the whites until stiff, then fold into batter. Don't have buttermilk? Add 2 tablespoons lemon juice or vinegar to regular milk and let sit 5 minutes.",
+    "source": "Original",
+    "image_url": "https://raw.githubusercontent.com/thetreepirate/RecipesAndMore-Community-Cookbook/main/images/breakfast/fluffy-pancakes.jpg",
+    "nutrition": {
+      "calories": "320",
+      "protein": "10g",
+      "carbs": "48g",
+      "fat": "10g",
+      "fiber": "2g",
+      "sugar": "8g"
+    }
+  }
+}
